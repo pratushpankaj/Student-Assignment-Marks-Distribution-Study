@@ -49,6 +49,6 @@ The data is used only for academic and analytical purposes.
 
 ## How to Run
 1. Clone the repository  
-   ```bash
+   https://github.com/pratushpankaj/Student-Assignment-Marks-Distribution-Study.git ```bash
   
 
